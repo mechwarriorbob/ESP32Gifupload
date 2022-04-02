@@ -178,8 +178,8 @@ void ShowGIF(char *name)
 
 }
 
-const String default_ssid = "Mink's Den";
-const String default_wifipassword = "jollycarrot630";
+const String default_ssid = "put in";
+const String default_wifipassword = "put in";
 const int default_webserverporthttp = 80;
 
 const char index_html[] PROGMEM = R"rawliteral(
